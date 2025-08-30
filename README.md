@@ -25,3 +25,4 @@ Um sistema de cadastro e login desenvolvido em Python, usando Tkinter e CustomTk
 • SQLite
 
 • Pillow (para imagens na interface)
+
